@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "josé antunes",
+      "email": "antunes@empresa.org",
+      "id": 3
+    },
+    {
+      "name": "João Oliveira",
+      "email": "joliveira@dev.org",
+      "id": 4
+    },
+    {
+      "name": "bethânia maria",
+      "email": "maria@maria.com",
+      "id": 5
+    }
+  ]
+}
