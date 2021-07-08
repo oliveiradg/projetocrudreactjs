@@ -6,3 +6,8 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
+
+ const path = require("path");
+ const cors = require("cors");
+
+ applicationCache.use(cors());
